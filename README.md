@@ -44,9 +44,12 @@
 - Numpy
 - Pandas
 
-## Dependencies
-- 
+## Flutter Dependencies
+- tflite: ^1.0.2
+- image_picker: ^0.8.4+4
+- flutter_svg: ^0.23.0+1
 
 ## Technologies used
 - Google Colab
+- Jupyter Notebook
 - Flutter
