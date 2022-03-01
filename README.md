@@ -8,9 +8,10 @@
 - After Comparing the accuracies of both the deep learning models best model was selected for further deployment on android application
 - The model was converted in .tflite format in order to deploy it using TensorFlowlite dependencies in flutter
 - UI of app was done using Flutter and Dart while functionalities were implemented using TensorFlowlite libraries
-- The app enables user to click and image of x-ray or select the image from app storage or drive to check the results
+- The app enables user to click an image of x-ray or select the image from app storage or drive to check the results
 - UI is configured in such a way that the result is displayed on the screen
 - If patient has pneumonia a short and useful prescription from experienced doctors is made available in the app itself
+- The models were built on Google Colab by fetching data through Kaggle API
 
 ## DataSet
 ![image](https://user-images.githubusercontent.com/78098329/156110186-0e3dc2d5-1bd5-4f4d-9148-4997d42d5b82.png)
