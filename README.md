@@ -1,6 +1,6 @@
 # **PneumoDoc** 🩺
 
-## An app to detect Pneumonia using Deep Learning
+## An app to detect Pneumonia using Deep Learning 🧠📱
 - In this project two models ANN and CNN were built from scratch using TensorFlow and Keras
 - The problem statement is to detect whether patient is having pneumonia or not by training models with x-ray images
 - Data Augmentation was performed and the main reason behind it is to provide maximum randomness to the training data where we use a function to shuffle images, make minor changes, and save images accordingly because it is a good practice to provide as much randomness as possible in order to achieve good accuracy on real-time data and testing data
@@ -16,17 +16,17 @@
 ![image](https://user-images.githubusercontent.com/78098329/156110186-0e3dc2d5-1bd5-4f4d-9148-4997d42d5b82.png)
 
 
-## Training and Validating Accuracies 
+## Training and Validating Accuracies 📉
 #### Artificial Neural Network Model
 ![image](https://user-images.githubusercontent.com/78098329/156110930-a027720b-2355-47d5-98a3-86af69492d5b.png)
 
 #### Convolutional Neural Network Model
 
 ## User Interface using Flutter
-![image](https://user-images.githubusercontent.com/78098329/156111669-dbaf2c15-a734-49cf-afa7-826bd12ccd4e.png)  ![image](https://user-images.githubusercontent.com/78098329/156111802-b06c32f5-9f6b-4714-a6d6-58c2791ec16a.png)
+![image](https://user-images.githubusercontent.com/78098329/156112145-c7043140-c068-4667-ba0e-728774bdd676.png)       ![image](https://user-images.githubusercontent.com/78098329/156111802-b06c32f5-9f6b-4714-a6d6-58c2791ec16a.png)
 
 
-![image](https://user-images.githubusercontent.com/78098329/156111769-bd3c501b-32d6-4cdd-a3fc-6a0b8880ec4f.png)  ![image](https://user-images.githubusercontent.com/78098329/156111816-5d3bf00c-6335-4543-9f4d-ae4b153feecf.png)
+![image](https://user-images.githubusercontent.com/78098329/156111769-bd3c501b-32d6-4cdd-a3fc-6a0b8880ec4f.png)       ![image](https://user-images.githubusercontent.com/78098329/156112226-2aa97aa6-a294-4305-88d6-a75e050c5cc4.png)
 
 
 ## Libraries
@@ -39,3 +39,6 @@
 ## Dependencies
 - 
 
+## Technologies used
+- Google Colab
+- Flutter
