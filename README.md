@@ -17,17 +17,17 @@
 
 
 ## Training and Validating Accuracies 📉
-#### - Artificial Neural Network Model
+- #### Artificial Neural Network Model
 ![image](https://user-images.githubusercontent.com/78098329/156110930-a027720b-2355-47d5-98a3-86af69492d5b.png)
 
-#### - Convolutional Neural Network Model
+- #### Convolutional Neural Network Model
 ![image](https://user-images.githubusercontent.com/78098329/156114016-172b1a12-8734-410b-8bdb-e585031d04c1.png)
 
 ## Train and Test Metrics
-#### - Artificial Neural Network Model
+- #### Artificial Neural Network Model
 ![image](https://user-images.githubusercontent.com/78098329/156114044-511c6a8b-9585-433c-ba40-4182e5c7ab8c.png)
 
-#### - Convolutional Neural Network Model
+- #### Convolutional Neural Network Model
 ![image](https://user-images.githubusercontent.com/78098329/156114064-6e666378-57d3-4d84-9a0c-b1a2a32947be.png)
 
 ## User Interface using Flutter
