@@ -1,6 +1,6 @@
 # **PneumoDoc** 🩺
 
-##An app to detect Pneumonia using Deep Learning
+## An app to detect Pneumonia using Deep Learning
 - In this project two models ANN and CNN were built from scratch using TensorFlow and Keras
 - The problem statement is to detect whether patient is having pneumonia or not by training models with x-ray images
 - After Comparing the accuracies of both the deep learning models best model was selected for further deployment on android application
@@ -9,6 +9,12 @@
 - The app enables user to click and image of x-ray or select the image from app storage or drive to check the results
 - UI is configured in such a way that the result is displayed on the screen
 - If patient has pneumonia a short and useful prescription from experienced doctors is made available in the app itself
+
+## DataSet
+![image](https://user-images.githubusercontent.com/78098329/156110186-0e3dc2d5-1bd5-4f4d-9148-4997d42d5b82.png)
+
+
+## Training and Testing Accuracies 
 
 
 
